@@ -4,7 +4,7 @@ class Program
 	{
 		Console.WriteLine("Enter your name:");
 		var name = Console.ReadKey();
-		Console.Write("Hello, ");
+		Console.Write("Hello, world");
 		Console.WriteLine(name);
 	}
 }
